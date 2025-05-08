@@ -9,7 +9,14 @@
     "tourze/easy-admin-attribute": "0.1.*",
     "tourze/symfony-async-bundle": "0.0.*",
     "tourze/health-check-bundle": "0.1.*",
-    "tourze/easy-admin-menu-bundle": "0.1.*"
+    "tourze/easy-admin-menu-bundle": "0.1.*",
+    "symfony/http-kernel": "^6.4",
+    "doctrine/orm": "^3.0",
+    "symfony/dependency-injection": "^6.4",
+    "symfony/config": "^6.4",
+    "doctrine/dbal": "^4.0",
+    "psr/log": "^3|^2|^1",
+    "doctrine/doctrine-bundle": "^2.13"
   },
   "require-dev": {
     "phpunit/phpunit": "^10.0",
