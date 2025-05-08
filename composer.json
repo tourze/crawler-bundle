@@ -29,9 +29,8 @@
     "tourze/enum-extra": "~0.0.5",
     "tourze/health-check-bundle": "0.1.*",
     "tourze/json-rpc-core": "^0.0.6",
-    "tourze/symfony-ecol-bundle": "0.1.*",
-    "tourze/symfony-cron-job-bundle": "0.1.*",
-    "tourze/symfony-async-bundle": "0.0.*"
+    "tourze/symfony-async-bundle": "0.0.*",
+    "tourze/symfony-cron-job-bundle": "0.1.*"
   },
   "require-dev": {
     "phpstan/phpstan": "^2.1",
