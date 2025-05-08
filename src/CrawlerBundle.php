@@ -11,7 +11,6 @@ class CrawlerBundle extends Bundle implements BundleDependencyInterface
     {
         return [
             \Tourze\Symfony\CronJob\CronJobBundle::class => ['all' => true],
-            \AntdCpBundle\AntdCpBundle::class => ['all' => true],
             \CmsBundle\CmsBundle::class => ['all' => true],
         ];
     }
